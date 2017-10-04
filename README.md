@@ -1,12 +1,21 @@
 ## Welcome to hotpot Repositery
 
-You can use the [editor on GitHub](https://github.com/A-Aerro/hotpot/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can View help [from Aerroweb](https://aerroweb.wordpress.com/hotpot/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can use the batch file and exit it frou you or you can just use the hotpot.exe to use it.
 
-### Markdown
+### usage
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ by Aerro.Inc Under MIT Licence.
+.
+Choose an action below by entering its number.
+.
+[1] Setup SSID And password
+[2] Activate Hotspot
+[3] Deactivate Hotspot
+[4] Exit Program
+[5] Need help (hosted network error)
+
 
 ```markdown
 Syntax highlighted code block
