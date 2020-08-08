@@ -1,3 +1,6 @@
+```
+this is a old project it doesn't work on windows 10 now, windows 7 takes if fine if you still use that.
+```
 ## Welcome to hotpot Repositery
 
 You can View help [from Aerroweb](https://aerroweb.wordpress.com/hotpot/).
